@@ -1,3 +1,3 @@
-# multip
-it's live at
-**(https://sethp.cc/multip)[https://sethp.cc/multip]**
+**[Multip][https://sethp.cc/multip]**
+it's live
+
