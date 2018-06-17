@@ -17,7 +17,7 @@ if ('serviceWorker' in navigator) {
   // Delay registration until after the page has loaded, to ensure that our
   // precaching requests don't degrade the first visit experience.
   window.addEventListener('load', function () {
-    navigator.serviceWorker.register('../service-worker.js').then(function (reg) {
+    navigator.serviceWorker.register('service-worker.js').then(function (reg) {
       // updatefound is fired if service-worker.js changes.
       reg.onupdatefound = function () {
         // The updatefound event implies that reg.installing is set; see
