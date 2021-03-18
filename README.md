@@ -1,4 +1,4 @@
-**[Multip](https://sethp.cc/multip)**
+**[Multip](https://multip.surge.sh/)**
 it's live
 
 
